@@ -5,6 +5,7 @@ import cn.jk.study.springmvc.annotation.JkController;
 import cn.jk.study.springmvc.annotation.JkRequestMapping;
 import cn.jk.study.springmvc.annotation.JkRequestParam;
 import cn.jk.study.springmvc.service.MyService;
+import cn.jk.study.springmvc.service.impl.MyServiceImpl;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
